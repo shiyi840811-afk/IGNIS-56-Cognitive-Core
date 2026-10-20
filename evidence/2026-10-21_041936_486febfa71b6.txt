@@ -1,0 +1,13 @@
+Project: IGNIS - Ignition Intelligence Grid
+Record-Version: 1
+Backup-Created-Local: 2026-10-21T04:19:38+08:00
+Git-HEAD: 486febfa71b655ac2014278ab7c76e0b9f452584
+Git-Tree: a1c7950a2ad6692af6c39ffe8efb548f8dd8a383
+Working-Tree-Clean: true
+
+Git-Bundle-SHA256: B8094E34B5221290E32E332A6C3B4C2FD6D3F34F82C54F7DEF172F31D0B8AB6F
+Tracked-Snapshot-SHA256: 545C9A97D71B8E1C123ACEE5C310DD1F0449867F7DCECF50F4BE6DB9FC6A2C25
+Private-Manifest-SHA256: 6848F9BB680228F62EDB2F772BD98907FF8FBE43520413D05A6E7703F0AA823E
+
+No source code, backup artifact, credential, account data, or private project
+content is included in this public record.

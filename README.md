@@ -1,7 +1,7 @@
-# IGNIS Development Evidence Ledger
+# IGNIS Core Development Evidence Ledger
 
 This public repository records cryptographic hashes for privately retained
-IGNIS development backups. It does not contain IGNIS source code, datasets,
+IGNIS Core development backups. It does not contain source code, datasets,
 credentials, executable bundles, or private project files.
 
 ## Purpose
@@ -28,3 +28,4 @@ rewritten by a repository owner.
 
 The private artifacts must therefore remain preserved separately. This ledger
 contains hashes only and cannot reconstruct the underlying source code.
+

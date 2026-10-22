@@ -4,6 +4,20 @@ This public repository records cryptographic hashes for privately retained
 IGNIS Core development backups. It does not contain source code, datasets,
 credentials, executable bundles, or private project files.
 
+## Project overview
+
+IGNIS Core is a local-first, AI-native market research and event-monitoring
+tool. It organizes public market observations into ranked research views,
+supports user-defined monitoring workflows, and provides bounded interfaces
+for AI agents to inspect context without treating observations as trading
+authority.
+
+The project is designed around human authorization, data-source separation,
+auditable state, and replaceable model providers. IGNIS Core does not custody
+funds, embed exchange credentials, or independently authorize or execute
+trades. Detailed architecture, algorithms, governance rules, and source code
+remain private during development.
+
 ## Purpose
 
 Each evidence record binds a local Git bundle and tracked-source snapshot to a

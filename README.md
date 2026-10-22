@@ -18,6 +18,13 @@ funds, embed exchange credentials, or independently authorize or execute
 trades. Detailed architecture, algorithms, governance rules, and source code
 remain private during development.
 
+IGNIS Core is designed as an AI-agent-native system for cross-platform and
+hybrid model operation. Supported cloud AI platforms and user-hosted local
+models can contribute according to their strengths without locking the user
+into a single provider. Local and cloud computation may be combined while
+agent identity, memory, provenance, permissions, and consequential actions
+remain governed by explicit system boundaries.
+
 ## Purpose
 
 Each evidence record binds a local Git bundle and tracked-source snapshot to a

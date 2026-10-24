@@ -1,0 +1,13 @@
+Project: IGNIS Core
+Record-Version: 1
+Backup-Created-Local: 2026-10-25T00:59:32+08:00
+Git-HEAD: 4deacfb9c35e06beb591c13a2423ec7f70f0418e
+Git-Tree: a81fa17e35ceb19f43899a7c7977d783495c98b0
+Working-Tree-Clean: true
+
+Git-Bundle-SHA256: 0698BFE0235731AFB3870FD1AFC2DB560ECED5BEADCC634E82AFC810669C7AED
+Tracked-Snapshot-SHA256: 5E2B38FB7AFCD8AAF0DCEBD3C0C71C09A82F77296EBE797619979A5F0E22E6D9
+Private-Manifest-SHA256: EBE01F7A260815CAFD37EBEA27AEB0BD9ADE0C54EF7581515D98F07FBAE50F11
+
+No source code, backup artifact, credential, account data, or private project
+content is included in this public record.

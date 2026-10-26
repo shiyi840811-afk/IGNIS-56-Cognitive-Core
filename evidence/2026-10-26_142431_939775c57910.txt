@@ -1,0 +1,17 @@
+Project: IGNIS-56 Cognitive Core
+Product-Version: 0.52.1
+Record-Version: 1
+Backup-Created-Local: 2026-10-26T14:24:31+08:00
+Git-HEAD: 939775c57910160366e18a6fb9cc922b59a55970
+Git-Tree: 8c3e00c1f4d32442804497c7fa1da5d5629cc31e
+Working-Tree-Clean: false
+
+Git-Bundle-SHA256: EB838725697F4412F28E97EDA404064858F50D54219A9AD931866BEA1DD273E6
+Tracked-Snapshot-SHA256: 1D528CA7CDED418819ECB42728A8E0E4BB92DBEA4FB8FB523B64BC7E70ED54DC
+Private-Manifest-SHA256: E6A68A3D08C6E44906895EE488634C2B62503ABD31D97BC5AD01FCB5862EE965
+
+The private backup contains only the committed Git state identified above.
+Uncommitted working-tree content is not included in the snapshot or bundle.
+
+No source code, backup artifact, credential, account data, or private project
+content is included in this public record.

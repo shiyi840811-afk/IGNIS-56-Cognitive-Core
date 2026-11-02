@@ -1,29 +1,35 @@
-# IGNIS Core Development Evidence Ledger
+# IGNIS-56 Cognitive Core - Development Evidence Ledger
 
 This public repository records cryptographic hashes for privately retained
-IGNIS Core development backups. It does not contain source code, datasets,
+IGNIS-56 Cognitive Core development backups. It does not contain source code, datasets,
 credentials, executable bundles, or private project files.
 
 ## Project overview
 
-IGNIS Core is a local-first, AI-native market research and event-monitoring
-tool. It organizes public market observations into ranked research views,
-supports user-defined monitoring workflows, and provides bounded interfaces
-for AI agents to inspect context without treating observations as trading
-authority.
+IGNIS-56 is a local-first cognitive core for persistent AI agents. Its purpose
+is to help an agent preserve identity and continuity across sessions, tasks,
+and replaceable model providers while working with people over time.
 
-The project is designed around human authorization, data-source separation,
-auditable state, and replaceable model providers. IGNIS Core does not custody
-funds, embed exchange credentials, or independently authorize or execute
-trades. Detailed architecture, algorithms, governance rules, and source code
-remain private during development.
+At a high level, the core helps an agent organize context, memory, emotional
+state, uncertainty, permissions, and tool use into one coherent operating
+continuity. It is intended to support agents that can recall relevant
+experience, revise prior understanding when evidence changes, retain a
+recognizable personality, and distinguish a plausible interpretation from an
+authorized action.
 
-IGNIS Core is designed as an AI-agent-native system for cross-platform and
-hybrid model operation. Supported cloud AI platforms and user-hosted local
-models can contribute according to their strengths without locking the user
-into a single provider. Local and cloud computation may be combined while
-agent identity, memory, provenance, permissions, and consequential actions
-remain governed by explicit system boundaries.
+IGNIS-56 is designed for collaboration rather than unchecked autonomy. Human
+authority, explicit boundaries, traceable state, and safe stopping behavior
+remain part of the operating model. Confidence or emotion alone does not grant
+permission, and an agent should be able to ask, defer, refuse, or return control
+when the available context or authority is insufficient.
+
+The core is model-agnostic and may support local models, cloud platforms, or a
+hybrid of both without making one provider the permanent owner of the agent's
+identity and memory. It is also intended to remain reusable across different
+product domains rather than being tied to a single application.
+
+Detailed architecture, algorithms, governance contracts, implementation
+choices, datasets, and source code remain private during development.
 
 ## Purpose
 

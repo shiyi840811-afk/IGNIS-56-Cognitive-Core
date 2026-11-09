@@ -1,0 +1,19 @@
+Project: IGNIS-56 Cognitive Core
+Canonical-Continuation: ITHERLA
+Record-Version: 2
+Backup-Created-Local: 2026-11-09T10:00:01+08:00
+Source-Lineage-Revision: ccc7567b379f8072d0d48afedc079efe3574be1c
+Git-HEAD: 09706f1d3ae034c01aa349705508b5db23d77331
+Git-Tree: 733aace4eb70a8974a162bb3bdaa55aadd6bcd2b
+Working-Tree-Clean: true
+
+Git-Bundle-SHA256: 6CA3BA3E59B592B7BF631D1C0FE0FAA87E1BD8F87009B9F2DE52D4DDAABE7C0B
+Tracked-Snapshot-SHA256: AD3E0A7628597AEB89F0B37DEE347330171137FB16BC43B6B6AEA954D762128E
+Private-Manifest-SHA256: F946FA389163ACB7312BBE15D02FC4952B00B9DE95F174B8FD53C3FA60FB1A3F
+
+The private backup contains only the committed Git state identified above.
+ITHERLA is the canonical continuation line for the domain-neutral cognitive core;
+the IGNIS source lineage remains preserved as historical and financial reference evidence.
+
+No source code, backup artifact, credential, account data, private path, or private
+project content is included in this public record.

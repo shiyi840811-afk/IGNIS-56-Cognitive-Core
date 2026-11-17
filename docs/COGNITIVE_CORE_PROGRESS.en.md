@@ -87,6 +87,54 @@ not erase the original restrictions.
 - **Legally portable memory and skills should not trap users inside a closed format.**
 - **Product capability claims require direct validation, not architectural inference.**
 
+## How We Approach AI Safety
+
+IGNIS-56 does not assume that models will always be correct, and it does not make model
+self-restraint the primary safety boundary. The cognitive core separates observation,
+interpretation, facts, memory, skills, authorization, and execution so that model output begins as
+a candidate that can be checked and revised rather than becoming system authority by default.
+
+The core follows these safety positions:
+
+- **Models do not hold final authority**: models may analyze, propose, and collaborate, but they
+  cannot create, expand, or redelegate authorization.
+- **Memory is not authorization**: familiarity, procedural knowledge, prior success, and high
+  confidence do not independently grant tool or external-action eligibility.
+- **Consequential actions require renewed validation**: irreversible, sensitive, or
+  boundary-crossing actions require renewed checks of Agent identity, current intent,
+  authorization scope, and capability state.
+- **Failures should remain local**: when a component or model becomes unreliable, the affected
+  capability should degrade or stop instead of bypassing governance to appear available.
+- **The system must remain stoppable and recoverable**: pause, revocation, diagnosis, rollback,
+  human takeover, and revalidation belong to the core lifecycle.
+- **Safety is not presented as zero risk**: it remains an engineering process of validation,
+  adversarial testing, external review, and correction rather than a permanent label.
+
+The goal is not to claim that an Agent can never be wrong. The goal is to prevent confidence,
+memory, or affect from turning an error into authority, and to keep drift visible, bounded,
+repairable, and safely stoppable.
+
+## How We Approach Employment Anxiety in the AI Era
+
+Rapid improvements in AI have created understandable concern that human experience, employment,
+and learning speed may be left behind. IGNIS-56 does not promise to eliminate unemployment, and it
+does not present a cognitive core as a complete answer to social or economic problems.
+
+The core is designed to preserve human agency. People retain responsibility for goals, values,
+authorization, and consequential decisions. Agents help organize information, preserve experience,
+learn procedures, and reduce repetitive work while maintaining legitimate collaboration context
+across model and platform changes. A replaceable model engine should not become the sole owner of a
+user's memory, skills, or long-term collaboration.
+
+The intended direction is neither "humans replaced by AI" nor "humans surrendering judgment to
+AI." It is to help more people combine their own judgment and experience with governed Agents as
+small human-AI teams. Users must remain able to question, correct, refuse, and replace models rather
+than being trained to accept every AI conclusion.
+
+This cannot guarantee that any job will remain unchanged. It aims to preserve something more
+fundamental: after adopting AI, a person should still be able to think, choose, remain responsible,
+and carry legitimately accumulated memory, skills, and experience into the next stage.
+
 ## Development Progress
 
 | Stage | Status | Public summary |
@@ -130,6 +178,10 @@ evidence records.
 - **2026-11-17**: Published the bilingual cognitive-core concept and progress pages; recorded the
   integration path and the public directions for cross-model continuity, memory non-escalation,
   Skill separation, fair capacity governance, and Rights & Provenance.
+- **2026-11-17 22:47:13 UTC+08:00**: Added the public AI-safety approach and position on
+  employment anxiety, including model-independent authority, local failure degradation,
+  stoppability and recovery, explicit rejection of zero-risk claims, and human-led collaboration
+  with governed Agents.
 
 ## Maturity Notice
 

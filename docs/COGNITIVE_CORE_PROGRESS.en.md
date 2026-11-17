@@ -120,6 +120,17 @@ not erase the original restrictions.
 - Qualify naturalness, consistency, and failure behavior across different model engines.
 - Complete stoppable, recoverable, portable, and reviewable prerequisites before product integration.
 
+## Public Update History
+
+Beginning on `2026-11-17`, material changes to cognitive-core direction, maturity, or validation
+status will be recorded here with explicit dates. Earlier development history will not be
+reconstructed from guesswork; verifiable earlier milestones remain represented by Git and
+evidence records.
+
+- **2026-11-17**: Published the bilingual cognitive-core concept and progress pages; recorded the
+  integration path and the public directions for cross-model continuity, memory non-escalation,
+  Skill separation, fair capacity governance, and Rights & Provenance.
+
 ## Maturity Notice
 
 IGNIS-56 Cognitive Core remains under development. Current work consists primarily of contracts,

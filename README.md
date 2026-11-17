@@ -4,6 +4,15 @@ This public repository records cryptographic hashes for privately retained
 IGNIS-56 Cognitive Core development backups. It does not contain source code, datasets,
 credentials, executable bundles, or private project files.
 
+## Concept and progress
+
+- [繁體中文｜認知核心概念與開發進度](docs/COGNITIVE_CORE_PROGRESS.zh-TW.md)
+- [English | Cognitive Core Concept and Development Progress](docs/COGNITIVE_CORE_PROGRESS.en.md)
+
+These pages describe the public problem statement, design principles, current maturity,
+and planned validation path. They intentionally omit proprietary algorithms, internal
+schemas, security-sensitive implementation details, private test cases, and source code.
+
 ## Project overview
 
 IGNIS-56 is a local-first cognitive core for persistent AI agents. Its purpose
